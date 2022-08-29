@@ -1,0 +1,16 @@
+footer {
+    background-color: #0466C8;
+  }
+
+.img-large {
+    max-width: 150px;
+}
+
+.ft-lnk {
+    color: #fff;
+    text-decoration: none;
+}
+
+.ft-lnk:hover {
+    color: #23A4A0;
+}
