@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e8161860.css",
+    "main.js": "/static/js/main.8430d5d1.js",
+    "static/js/787.d624e6cf.chunk.js": "/static/js/787.d624e6cf.chunk.js",
+    "static/media/song1.mp4": "/static/media/song1.167752f1f879ac512347.mp4",
+    "static/media/song3.mp4": "/static/media/song3.0d61322b4660ca6b072e.mp4",
+    "static/media/open-austin.png": "/static/media/open-austin.8e207ec85d26c8e3404a.png",
+    "static/media/song5.mp4": "/static/media/song5.b3f3c03e43e86e395095.mp4",
+    "static/media/song2.mp4": "/static/media/song2.79893933daac0e5e721e.mp4",
+    "static/media/song4.mp4": "/static/media/song4.7439f13f51e62e7f8d96.mp4",
+    "static/media/dakota-paint.png": "/static/media/dakota-paint.607916a9f64310da3c91.png",
+    "static/media/dakota-work.png": "/static/media/dakota-work.770602547ad9a927c387.png",
+    "static/media/dakota-hr.png": "/static/media/dakota-hr.334d5f6343fcceba5a38.png",
+    "static/media/health.png": "/static/media/health.53e33c413348a6ca3152.png",
+    "static/media/vauven.png": "/static/media/vauven.2ce2f2e376445de8dc09.png",
+    "static/media/dakota-teaching.png": "/static/media/dakota-teaching.92737c07cfa08c14b584.png",
+    "static/media/place2022.png": "/static/media/place2022.9b4bbe4d7e921c9f9b05.png",
+    "static/media/dakota-pc.jpg": "/static/media/dakota-pc.ebf04077babd27bd5b06.jpg",
+    "static/media/dakota-classroom.jpg": "/static/media/dakota-classroom.d508a72d0ab9686915f7.jpg",
+    "static/media/miguel-dakota.jpg": "/static/media/miguel-dakota.4609386b6f4786215423.jpg",
+    "static/media/dakota.png": "/static/media/dakota.6ef1c4e4a4bc9136db6f.png",
+    "static/media/dakota-robots.jpg": "/static/media/dakota-robots.17059827db3970fd36c4.jpg",
+    "static/media/dakota-paper.jpg": "/static/media/dakota-paper.13cbfabe68d96c13fc5c.jpg",
+    "static/media/kim-portfolio.png": "/static/media/kim-portfolio.7035375b90a2f86948d5.png",
+    "static/media/dakota-camp.jpg": "/static/media/dakota-camp.d411108dc8043dc6a0d8.jpg",
+    "static/media/dakota-programming.jpg": "/static/media/dakota-programming.cefe2df0d8452d72b02d.jpg",
+    "static/media/footer.png": "/static/media/footer.b27fe312a4e4477cd85d.png",
+    "index.html": "/index.html",
+    "main.e8161860.css.map": "/static/css/main.e8161860.css.map",
+    "main.8430d5d1.js.map": "/static/js/main.8430d5d1.js.map",
+    "787.d624e6cf.chunk.js.map": "/static/js/787.d624e6cf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e8161860.css",
+    "static/js/main.8430d5d1.js"
+  ]
+}
