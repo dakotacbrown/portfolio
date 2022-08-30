@@ -12,7 +12,7 @@ export default function Navbar() {
             <div className="container-fluid">
                 <div className="row align-items-center">
                     <div className="col-6 d-flex flex-row flex-column pl-lg-5">
-                        <Link to="/portfolio">
+                        <Link to="/portfolio/">
                             <img className="img-fluid img-large" alt="Website logo" src={logo} />
                         </Link>
                     </div>

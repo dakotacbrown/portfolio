@@ -13,7 +13,7 @@ function Navbar() {
     <>
       <nav className='navbar nav-nav sticky-top navbar-expand-lg navbar-light'>
         <div className="container-fluid">
-                  <a className="navbar-brand nav-large pl-lg-5" href={"/portfolio"}>
+                  <a className="navbar-brand nav-large pl-lg-5" href={"/portfolio/"}>
                     <img className="img-fluid nav-large" alt="Website Logo" src={logo} />
                   </a>
         <div className='menu-icon' onClick={handleClick}>
@@ -22,7 +22,7 @@ function Navbar() {
         <ul className={click ? 'nav-menu active' : 'navbar-nav nav-menu'}>
           <li className='nav-item pr-3'>
               <NavLink
-                to={"/portfolio"}
+                to={"/portfolio/"}
                 className='nav-link'
                 activeClassName="active"
                 onClick={closeMobileMenu}
