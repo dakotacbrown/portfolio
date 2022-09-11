@@ -81,10 +81,10 @@ export default function Cards() {
                                     <div className="col-auto"><span className="box-tag">REACT JS</span></div>
                                     <div className="col-auto"><span className="box-tag">BOOTSTRAP 4</span></div>
                                 </div>
-                                <p className="text-right"><a className="box-link" target="_blank" rel="noreferrer" href="https://kim-tellez.github.io/design-portfolio/">VISIT PROJECT &#8811;</a></p>
+                                <p className="text-right"><a className="box-link" target="_blank" rel="noreferrer" href="https://kim-tellez.github.io/ux-ui-portfolio/">VISIT PROJECT &#8811;</a></p>
                             </div>
                             <div className="d-flex align-items-center col-lg-5 pt-5 pl-5 pr-5">
-                                <a target="_blank" rel="noreferrer" href="https://kim-tellez.github.io/design-portfolio/"><img className="img-fluid box-img" alt="Product Designer's Portfolio" src={portfolio} /></a>
+                                <a target="_blank" rel="noreferrer" href="https://kim-tellez.github.io/ux-ui-portfolio/"><img className="img-fluid box-img" alt="Product Designer's Portfolio" src={portfolio} /></a>
                             </div>
                         </div>
                     </div>
